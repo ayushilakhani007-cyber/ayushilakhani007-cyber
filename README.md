@@ -15,11 +15,12 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 Computer Science Student
+- 📺 I'm bscit student 
 - 🌱 Currently learning OOp & DS 
 - 💡 Passionate about Web Development & Open Source
 - 🚀 Learning DSA skills 
 - 📚 Always exploring new technologies
-- ⚡ Fun Fact: I love turning ideas into code!
+- ⌨️ I'm already learn MySQl and basic C.
 
 ---
 
